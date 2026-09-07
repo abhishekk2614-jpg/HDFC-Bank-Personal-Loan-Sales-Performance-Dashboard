@@ -49,3 +49,5 @@ Notes / Assumptions
 The daily sales target appears fixed at 500 per executive across the tracking window.
 "Day1"–"Day5" represent a 5-day sales tracking cycle (exact calendar dates are not specified in the sheet).
 Employee codes follow a regional prefix pattern (e.g. Mum-TCL0xx) though the code prefix does not always match the listed region — worth verifying against source HR/sales records if used for official reporting.
+
+📌 Disclaimer: This project uses a simulated dataset created solely for learning and demonstration purposes, and does not reflect actual data, figures, or operations of any organization.
